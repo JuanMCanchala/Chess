@@ -4,3 +4,14 @@
     align-items: center;
     height: 100vh;
 }
+.black-3c85d {
+    background-color: #006aff; 
+}
+.white-1e1d7 {
+    background-color: #d4f0f5; 
+}
+#board{
+    width: 500px;
+}
+
+/*las clases .black-3c85d,.white-1e1d7 son las que seleccionan los dos grupos de casillas las blancas y las negras*/

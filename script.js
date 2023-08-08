@@ -1,7 +1,4 @@
-var board = {
+var board = ChessBoard('board',{
     position: 'start',
     draggable: true
-  }
-  
-  
-  var board1 = ChessBoard('board1', board);
+  })
